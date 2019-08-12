@@ -21,7 +21,10 @@ But most open source developers are on Github. So we also want to make sure that
 
 ## How to contribute?
 
+All are welcome who want to adhere to [our principles and values](https://github.com/extinctionrebellion/extinctionrebellion/blob/master/principles.md).
+
 We are still figuring out what would be the best process to contribute.
 For now, the best is probably to introduce yourself by posting an issue to this repo.
 Tell us about you, your skills and what you would love to do.
 
+With love and rage!
