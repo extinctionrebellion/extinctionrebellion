@@ -23,23 +23,26 @@ But most open source developers are on Github. So we also want to make sure that
 
 List of the tools that the movement is currently using:
 
-- [Mattermost](https://mattermost.com) (open source)
-- [Discourse](https://www.discourse.org/) (open source)
-- [Basecamp](https://basecamp.com)
-- [Signal](https://signal.org/) (open source)
+- [Mattermost](https://mattermost.com): slack alternative (open source)
+- [Discourse](https://www.discourse.org/): self hosted forum softare (open source)
+- [Basecamp](https://basecamp.com): project management software
+- [WhatsApp](https://whatsapp.com): messaging app
+- [Signal](https://signal.org/): secure messaging app (open source)
 - Google Docs / Spreadsheets
-- [Framapad](https://framapad.org/), [framadate](https://framadate.org/) (open source)
-- [NextCloud](https://nextcloud.com) (open source)
-- [GitLab](https://gitlab.com) (open source)
-- [Open Collective](https://opencollective.com) (open source)
-- [Xero](https://xero.com)
+- [Framapad](https://framapad.org/): google doc alternative for real time editing
+- [Framadate](https://framadate.org/): doodle.com alternative (open source)
+- [MailTrain](https://mailtrain.org/): self hosted newsletter app (open source)
+- [NextCloud](https://nextcloud.com): google drive alternative (open source)
+- [GitLab](https://gitlab.com): self hosted github alternative (open source)
+- [Open Collective](https://opencollective.com): transparent expense management and fundraising (open source)
+- [Xero](https://xero.com): accounting software
 
 So contributing to the tools listed there that are open source is already a great way to contribute to the movement!
 For the non open source tools, finding ways to connect them with other more open source tools would be useful. 
 
 Open Source alternatives can also be suggested but we should stay away from idealogies. We are here to support the rebels, not to tell them to stop using Google / Facebook / etc. Other groups and movements exist for that. Our absolute priority is to get as many rebels willing to participate in direct actions of civil disobedience for the climate emergency.
 
-Beyond those tools, the movement is also making extensive use of social platforms (mainly Facebook, Instagram, Twitter and WhatsApp).
+Beyond those tools, the movement is also making extensive use of social platforms (mainly Facebook, Instagram, Twitter).
 
 ## What is needed?
 
