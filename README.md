@@ -40,11 +40,11 @@ List of the tools that the movement is currently using:
 So contributing to the tools listed there that are open source is already a great way to contribute to the movement!
 For the non open source tools, finding ways to connect them with other more open source tools would be useful. 
 
-Open Source alternatives can also be suggested but we should stay away from idealogies. We are here to support the rebels, not to tell them to stop using Google / Facebook / etc. Other groups and movements exist for that. Our absolute priority is to get as many rebels willing to participate in direct actions of civil disobedience for the climate emergency.
-
 Beyond those tools, the movement is also making extensive use of social platforms (mainly Facebook, Instagram, Twitter).
 
 ## What is needed?
+
+Our absolute priority is to get as many rebels willing to participate in direct actions of civil disobedience for the climate emergency. Everything we do should be to support them and the organization.
 
 ### Tools for outreach and onboarding
 
