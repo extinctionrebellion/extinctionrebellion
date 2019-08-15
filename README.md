@@ -33,6 +33,7 @@ List of the tools that the movement is currently using:
 - [Framadate](https://framadate.org/): doodle.com alternative (open source)
 - [MailTrain](https://mailtrain.org/): self hosted newsletter app (open source)
 - [NextCloud](https://nextcloud.com): google drive alternative (open source)
+- [GitBook](https://gitbook.com): documentation repository (open source)
 - [GitLab](https://gitlab.com): self hosted github alternative (open source)
 - [Open Collective](https://opencollective.com): transparent expense management and fundraising (open source)
 - [Xero](https://xero.com): accounting software
@@ -61,6 +62,7 @@ As the organization is growing, there is more and more knowledge being created. 
 There is already a gazillion of google docs left and right but no single point that bring them all together.
 
 It would be great to have a wiki for this.
+In the meantime, we have set up a GitBook on docs.opencollective.com/extinctionrebellion (ideally we should move it to docs.organise.earth once ready). The associated GitHub repo is [here](https://github.com/extinctionrebellion/docs).
 
 ## How to contribute?
 
